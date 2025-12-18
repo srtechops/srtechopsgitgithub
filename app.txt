@@ -1,5 +1,2 @@
 Welcome to Git & Github Training
-Linux is a Open Source
-
-
 - By SRTechOps team
