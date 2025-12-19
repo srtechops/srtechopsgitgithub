@@ -1,3 +1,8 @@
 --------------------------------
 Welcome to Git & Github Training
 - By SRTechOps team
+
+
+
+
+Linux is Open Source 
